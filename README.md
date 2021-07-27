@@ -1,1 +1,1 @@
-# Microservices Choreography Sage Pattern Proof Of Concept
+# Microservices Choreography Sage Pattern
